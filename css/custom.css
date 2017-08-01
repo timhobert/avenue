@@ -1,0 +1,18 @@
+/* LAYOUT - GENERAL */
+
+.container {
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    width: 100%;
+    max-width: 1400px;
+}
+
+.highlighted .container {
+	width: 100%;
+	max-width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+/* GOOD TIMES */
+

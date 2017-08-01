@@ -1,0 +1,17 @@
+global-css:
+  version: VERSION
+  css:
+    theme:
+     fonts/fontawesome/css/font-awesome.min.css: {}
+     fonts/segan/stylesheet.css: {}
+     css/base.css: {}
+     css/custom.css: {}
+     css/responsive.css: {}
+  js:
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once
